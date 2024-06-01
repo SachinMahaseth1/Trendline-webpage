@@ -277,7 +277,7 @@ html, body{
 
 #content-img{
     display:flex;
-    height:65%;
+    height:71%;
     width:100%;
     flex-wrap:nowrap;
     overflow: auto;
